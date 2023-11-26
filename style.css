@@ -259,7 +259,7 @@ footer {
 .menu img {
     border-radius: 100%;
     width: 50%;
-    padding-bottom: 20px;
+    padding: 20px;
 }
 .menu-item {
     display: flex;
