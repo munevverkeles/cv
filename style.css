@@ -113,10 +113,11 @@ h1 {
 .bolum ul {
     list-style: none;
     padding: 0;
+    width:50%;
 }
 .about p {
     border-right: 1px solid;
-    width: 60%;
+    width: 50%;
     padding-right: 20px;
     margin-right: 20px;
 }
@@ -198,6 +199,8 @@ p.date {
     font-weight: 500;
     padding: 5px;
     border-radius: 5px;
+    width: 150px;
+    text-align: center;
 }
 .portfolio {
     display: flex;
