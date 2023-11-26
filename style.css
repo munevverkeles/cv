@@ -240,15 +240,10 @@ p.date {
     color: white;
     font-weight: bold;
     margin-top: 30px;
+    border-top: 1px solid;
+    padding-top: 20px;
 }
-.hobies .box::after {
-    content: '';
-    width: 150px;
-    height: 1px;
-    background: #ffffff61;
-    position: absolute;
-    bottom: 65px;
-}
+
 footer {
     width: 90%;
     text-align: center;
