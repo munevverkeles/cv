@@ -299,14 +299,3 @@ footer {
 html {
     scroll-behavior: smooth;
 }
-a.buton {
-    padding: 10px;
-    margin-top: 20px;
-    background-color: white;
-    text-decoration: none;
-    color: #3F539F;
-    font-weight: bold;
-    width: 50%;
-    text-align: center;
-    border-radius: 5px;
-}
